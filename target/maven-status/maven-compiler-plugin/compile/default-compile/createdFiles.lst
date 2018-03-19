@@ -1,8 +1,0 @@
-com/intercom/interview/invitation/service/MapUtils.class
-com/intercom/interview/invitation/InvitationApplication.class
-com/intercom/interview/invitation/domain/Customer.class
-com/intercom/interview/invitation/domain/Location.class
-com/intercom/interview/invitation/Constants.class
-com/intercom/interview/invitation/service/InviteCustomerService.class
-com/intercom/interview/invitation/service/InviteCustomerFileService.class
-com/intercom/interview/invitation/domain/CustomerMapper.class
